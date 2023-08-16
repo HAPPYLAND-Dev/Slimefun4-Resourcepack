@@ -2,3 +2,6 @@ assets/minecraft/
 assets/slimefun/models/
 
 item-models.yml
+
+# Photoshop Image(Source)
+*.psd
