@@ -1339,16 +1339,30 @@
     "DUMO_HOSHINO_WEAPON":
     {
         "id": "hoshino_weapon",
-        "item": "prismarine",
+        "item": "prismarine_crystals",
         "template": "CUSTOM",
         "data": 4000
     },
     "DUMO_HOSHINO_HALO":
     {
         "id": "hoshino_halo",
-        "item": "iron_helmet",
+        "item": "prismarine_shard",
         "template": "CUSTOM",
-        "data": 4002
+        "data": 4062
+    },
+    "DUMO_MIKA_HALO":
+    {
+        "id": "mika_halo",
+        "item": "prismarine_shard",
+        "template": "CUSTOM",
+        "data": 4063
+    },
+    "DUMO_ARIS_WEAPON":
+    {
+        "id": "supernova",
+        "item": "prismarine_crystals",
+        "template": "CUSTOM",
+        "data": 4001
     }
 
 }
