@@ -1377,6 +1377,20 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4065
+    },
+    "DUMO_DUPLICATOR_ASSET":
+    {
+        "id": "duplicator_asset",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4066
+    },
+    "DUMO_DUPLICATOR_JY":
+    {
+        "id": "duplicator_jy",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4067
     }
 
 }
