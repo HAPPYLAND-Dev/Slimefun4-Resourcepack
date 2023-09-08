@@ -2,9 +2,9 @@ name: Resourcepack Release
 
 on:
   push:
-    branches: [ "master", "rework" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "master", "rework" ]
+    branches: [ "master" ]
 
 jobs:
   build:
