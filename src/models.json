@@ -1391,6 +1391,13 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4067
+    },
+    "DUMO_PENIS":
+    {
+        "id": "penis",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4068
     }
 
 }
