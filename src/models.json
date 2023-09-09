@@ -888,6 +888,13 @@
         "template": "GLASS_PANE",
         "data": 4011
     },
+    "_DUMO_UI_BLAST_FURNACE_LIT":
+    {
+        "id": "gui/blast_furnace_lit",
+        "item": "gray_stained_glass_pane",
+        "template": "GLASS_PANE",
+        "data": 4012
+    },
     "DUMO_CIRCUIT_1":
     {
         "id": "circuit_1",
