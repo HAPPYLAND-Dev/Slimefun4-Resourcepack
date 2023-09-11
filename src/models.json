@@ -1405,6 +1405,19 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4068
+    },
+    "DUMO_BEDROCK_DRILL":
+    {
+        "id": "bedrock_drill",
+        "item": "shears",
+        "template": "ITEM",
+        "data": 4007
+    },
+    "DUMO_BEDROCK_DUST":
+    {
+        "id": "bedrock_dust",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4069
     }
-
 }
